@@ -6,7 +6,7 @@
 
 </br>
 
-• Checker : 
+• Checker-Creator : 
 > Ubuntu 18.04.6 LTS
 
 </br>
