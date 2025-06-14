@@ -21,5 +21,10 @@
 
 </br>
 
+• Faux shell Geosaure : 
+> Ubuntu 18.04.6 LTS
+
+</br>
+
 • placeholder : 
 > ///
